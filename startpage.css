@@ -44,34 +44,3 @@ nav img {
 .nav-links ul li:hover::after {
     width: 100%;
 }
-
-.courses{
-    width: 1100px;
-    margin: 50px 50px;
-    margin-left: 150px;
-    margin-top: 150px;
-    display: flex;
-  justify-content:space-between;
-}
-
-.course{
-    color: white;
-    font-size: 25px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   width:338px;
-  height: 250px;
-  border-radius:10%;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url("https://media.wired.com/photos/5955c3573ff99d6b3a1d165c/master/pass/books.jpg");
-}
-
-
-.sport{
-    background-image:linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url("https://www.gov.kz/uploads/2019/11/5/7a9c6764febc1a832dbce5599c5685ae_original.206592.jpg");
-
-}
-
-.notes{
-background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url("https://www.wikihow.com/images_en/thumb/1/18/Take-Better-Notes-Step-1-Version-2.jpg/v4-460px-Take-Better-Notes-Step-1-Version-2.jpg.webp");
-}
